@@ -2,10 +2,6 @@
 
 A minimalist, responsive personal portfolio built with plain HTML, CSS, and JavaScript. It features smooth section swipe transitions, a dark-mode invert, animated accents, and masked SVG icons.
 
-## Preview
-
-https://github.com/user-attachments/assets/dc2b190a-6ca7-43e6-86fa-08178b2daf2f
-
 ## Structure
 
 - `index.html` — markup for Landing, About, Projects, Contact
